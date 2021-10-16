@@ -6,7 +6,3 @@
 🌱 I’m currently learning **Django**  
 `$ django-admin startproject mysite`  
 `$ python manage.py runserver`
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
