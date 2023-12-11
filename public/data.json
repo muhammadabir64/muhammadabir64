@@ -412,7 +412,6 @@
         {"platform": "twitter", "url": "https://twitter.com/muhammadabir404"},
         {"platform": "github", "url": "https://github.com/muhammadabir64"},
         {"platform": "dev", "url": "https://dev.to/muhammadabir"},
-        {"platform": "linkedin-in", "url": "https://linkedin.com/in/muhammadabir64"},
-        {"platform": "telegram", "url": "https://t.me/muhammadabir404"}
+        {"platform": "linkedin-in", "url": "https://linkedin.com/in/muhammadabir64"}
     ]
 }
