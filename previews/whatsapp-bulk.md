@@ -4,19 +4,19 @@ I developed a WhatsApp Bulk platform for an Egyptian team using PHP and MySQL. T
 ### Skills: JavaScript · PHP · MySQL
 
 #### home
-![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/f75b79d4-d11a-43a7-8716-5818645aee1d)
+![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/f73fe634-2edb-42c6-b4cf-b13862c6d468)
 
 #### user dashboard
-![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/a9a52286-f434-4db3-95bb-fbc6c58d1113)
+![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/5731bdbd-c5c8-404d-b24c-41d2bdea156f)
 
 #### admin dashboard
-![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/db3425da-22b0-4e2f-bbf9-3ff8a278e254)
+![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/32eab4b6-cea0-4c2a-bc68-6a97c74ce717)
 
 #### wallet
-![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/8b581bf1-354f-4e61-8034-445d15804754)
+![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/f1c0b290-3677-498e-95f8-9b1587c36086)
 
 #### price list
-![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/4a0bac82-5ddb-435f-964c-4b999ec5218a)
+![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/64508ba9-5039-4c94-b1f2-1e8c5a6135a7)
 
-#### order preview
-![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/b1db9021-ba25-4711-99bf-e814065cad9e)
+#### user profile
+![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/38bed90a-cac6-4741-8c98-1cffc50f65e1)
