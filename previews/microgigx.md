@@ -4,13 +4,13 @@ I have developed a microjob platform tailored specifically for Bangladesh, utili
 ### Skills: Laravel · JavaScript · MySQL · Bootstrap
 
 #### home
-![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/51bfe000-9ab9-457c-ac00-869e75d2d3ca)
+![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/01d4fa84-f0d9-4d85-af19-d5ed5f622866)
 
 #### dashboard
-![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/5343133c-ac94-464d-b20f-c73cb2612c2c)
+![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/d5b7beb6-6207-4283-a06f-eb7f0f59f6a6)
 
 #### wallet
-![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/d1dd1434-db90-4422-b5f7-ab3784b86f1f)
+![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/eeea5725-4b63-4018-8a0f-2610e25188bf)
 
 #### withdrawal
-![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/0cf0c43a-e5a0-478a-a3af-19359d3a8732)
+![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/1f5d0a1a-0c26-4dbb-9306-bf65cc782c80)
