@@ -12,8 +12,11 @@ A inventory management tool for an ecommerce platform based in Algeria. It can a
 #### register new seller
 ![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/d3a452e9-5e46-4204-b776-726536fb6f70)
 
+#### product invoice
+![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/ec8c0386-cc98-417d-a9cc-28b6d76bed9d)
+
 #### product barcode generator
-![Untitled](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/f53cb37c-09c6-495c-8c6c-290a63052a83)
+![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/d3944ea6-2a28-41e7-b59e-f429decb3912)
 
 #### database restore
 ![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/8ca92f50-7003-479f-b985-a78be6e8e463)
