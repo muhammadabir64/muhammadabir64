@@ -4,10 +4,10 @@ This is a AI-Image generator platform like dall-e. Made with django & stable-dif
 ### Stable Diffusion · JavaScript · MySQL · Django
 
 #### login
-![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/a2710708-544a-4600-a48a-9638155523dd)
+![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/ec845b37-1939-4581-8d94-d2d6571d6237)
 
 #### image generator
-![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/e07b829f-d266-4b75-b07b-0d3fa63e68d1)
+![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/bbd7435e-9baa-413e-89fd-ea725b19627b)
 
 #### generated image gallery
-![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/fbe73c69-d6ac-4d33-9f46-a97e8fc7166d)
+![image](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/64004564-d029-42a0-b0cd-22bb44c704f0)
