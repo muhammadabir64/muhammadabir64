@@ -31,6 +31,7 @@
         {"title": "PostgreSQL", "icon": "postgres"},
         {"title": "SQLite", "icon": "sqlite"},
         {"title": "MongoDB", "icon": "mongodb"},
+        {"title": "Redis", "icon": "redis"},
         {"title": "Firebase", "icon": "firebase"},
         {"title": "ReactJS", "icon": "reactjs"},
         {"title": "Tailwind CSS", "icon": "tailwindcss"},
