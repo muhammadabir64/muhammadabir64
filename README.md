@@ -6,7 +6,7 @@ I'm an enthusiastic Full Stack Web Developer, dedicated to crafting robust and s
 ![skills](https://github.com/muhammadabir64/muhammadabir64/assets/51321911/2a8e7b56-cd7b-43a0-b81a-a2124c3b0601)
 
 
-## Get in Touch
+## Connect with me
 - LinkedIn: https://linkedin.com/in/muhammadabir64
 - Portfolio: https://muhammadabir64.netlify.app
 - X: https://twitter.com/muhammadabir404
