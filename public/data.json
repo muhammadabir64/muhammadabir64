@@ -47,7 +47,6 @@
         {"title": "Figma", "icon": "figma"},
         {"title": "Git", "icon": "git"},
         {"title": "Dev Tool", "icon": "devtool"},
-        {"title": "Windows", "icon": "windows"},
         {"title": "Linux", "icon": "linux"}
     ],
     "showcases": [
