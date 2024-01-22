@@ -43,10 +43,10 @@
         {"title": "ElectronJS", "icon": "electron"},
         {"title": "BeautifulSoup", "icon": "beautifulsoup"},
         {"title": "Jupyter Notebook", "icon": "jupyter"},
-        {"title": "Visual Studio Code", "icon": "vscode"},
         {"title": "Figma", "icon": "figma"},
         {"title": "Git", "icon": "git"},
         {"title": "Dev Tool", "icon": "devtool"},
+        {"title": "Docker", "icon": "docker"},
         {"title": "Linux", "icon": "linux"}
     ],
     "showcases": [
