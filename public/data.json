@@ -111,6 +111,16 @@
             "preview_img": "https://muhammadabir64.github.io/assets/showcase/3_img_1.png|https://muhammadabir64.github.io/assets/showcase/3_img_2.png"
         },
         {
+            "title": "Meme Generator",
+            "description": "The Meme Generator app, powered by React, Flask, and Firebase Authentication, offers users a simple yet powerful meme creation experience. Search for images with Pixabay, then customize memes in a Canva-like editor. Adjust text, colors, and positions, add backgrounds, padding, and overlay effects. Secure logins with Firebase Authentication. Create, save, and export personalized memes effortlessly. Turn ordinary images into shareable, hilarious memes with ease!",
+            "made_with": "React, Firebase, Flask",
+            "types": "Web Application",
+            "date": "Jan 25, 2024",
+            "url": "https://muhammadabir64-meme-generator.netlify.app",
+            "thumbnail": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/10c78f60-9454-4568-b298-292f532eacd7",
+            "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/3daeb7f7-2e2d-4bfd-9208-ce24a6ef9f44"
+        },
+        {
             "title": "Musify - Music Streaming App",
             "description": "Experience musical bliss with my MERN stack creation – a minimalist music app inspired by SoundCloud. Powered by Dropbox for seamless audio storage and MongoDB for organized data, it effortlessly showcases a handpicked collection. Elevate your auditory senses with elegance, courtesy of React and Node.js.",
             "made_with": "Materialize CSS, JavaScript, PHP, MySQL",
