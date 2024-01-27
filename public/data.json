@@ -101,16 +101,6 @@
             "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/abc4e0707dcb148fea1640674040aa7c-1689588265394/Capture2.PNG|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/abc4e0707dcb148fea1640674040aa7c-1689588265411/Capture3.PNG|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/abc4e0707dcb148fea1640674040aa7c-1689588265412/Capture5.PNG"
         },
         {
-            "title": "ProFolio - Personal Portfolio/CV",
-            "description": "ProFolio- is a CMS based protfolio management system.",
-            "made_with": "MERN Stack",
-            "types": "Web Application",
-            "date": "Jan 10, 2024",
-            "url": "",
-            "thumbnail": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/4e4c7ac2-fe5f-42b3-a6e5-7d5981ae4518",
-            "preview_img": "https://muhammadabir64.github.io/assets/showcase/3_img_1.png|https://muhammadabir64.github.io/assets/showcase/3_img_2.png"
-        },
-        {
             "title": "Meme Generator",
             "description": "The Meme Generator app, powered by React, Flask, and Firebase Authentication, offers users a simple yet powerful meme creation experience. Search for images with Pixabay, then customize memes in a Canva-like editor. Adjust text, colors, and positions, add backgrounds, padding, and overlay effects. Secure logins with Firebase Authentication. Create, save, and export personalized memes effortlessly. Turn ordinary images into shareable, hilarious memes with ease!",
             "made_with": "React, Firebase, Flask",
@@ -123,6 +113,16 @@
         {
             "title": "Musify - Music Streaming App",
             "description": "Experience musical bliss with my MERN stack creation – a minimalist music app inspired by SoundCloud. Powered by Dropbox for seamless audio storage and MongoDB for organized data, it effortlessly showcases a handpicked collection. Elevate your auditory senses with elegance, courtesy of React and Node.js.",
+            "made_with": "MERN Stack",
+            "types": "Web Application",
+            "date": "Jan 10, 2024",
+            "url": "",
+            "thumbnail": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/4e4c7ac2-fe5f-42b3-a6e5-7d5981ae4518",
+            "preview_img": "https://muhammadabir64.github.io/assets/showcase/3_img_1.png|https://muhammadabir64.github.io/assets/showcase/3_img_2.png"
+        },
+        {
+            "title": "ProFolio - Personal Portfolio/CV",
+            "description": "ProFolio- is a CMS based protfolio management system.",
             "made_with": "Materialize CSS, JavaScript, PHP, MySQL",
             "types": "Web Application",
             "date": "Nov 25, 2020",
