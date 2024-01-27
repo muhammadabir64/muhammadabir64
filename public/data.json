@@ -103,12 +103,22 @@
         {
             "title": "ProFolio - Personal Portfolio/CV",
             "description": "ProFolio- is a CMS based protfolio management system.",
+            "made_with": "MERN Stack",
+            "types": "Web Application",
+            "date": "Jan 10, 2024",
+            "url": "",
+            "thumbnail": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/4e4c7ac2-fe5f-42b3-a6e5-7d5981ae4518",
+            "preview_img": "https://muhammadabir64.github.io/assets/showcase/3_img_1.png|https://muhammadabir64.github.io/assets/showcase/3_img_2.png"
+        },
+        {
+            "title": "Musify - Music Streaming App",
+            "description": "Experience musical bliss with my MERN stack creation – a minimalist music app inspired by SoundCloud. Powered by Dropbox for seamless audio storage and MongoDB for organized data, it effortlessly showcases a handpicked collection. Elevate your auditory senses with elegance, courtesy of React and Node.js.",
             "made_with": "Materialize CSS, JavaScript, PHP, MySQL",
             "types": "Web Application",
             "date": "Nov 25, 2020",
             "url": "",
             "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/29ddb096eab5895679125b5d189a4bbc-1689585154386/3_img.png",
-            "preview_img": "https://muhammadabir64.github.io/assets/showcase/3_img_1.png|https://muhammadabir64.github.io/assets/showcase/3_img_2.png"
+            "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/7c088abf-0356-4020-8867-3a49b826f2ff"
         },
         {
             "title": "Noteneers",
