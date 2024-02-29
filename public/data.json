@@ -111,6 +111,26 @@
             "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/d5b9bab4-7aed-4cb1-bc44-351ef3b9b70a|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/98909302-bc2f-4575-aee0-c0f97f55000d"
         },
         {
+            "title": "Black Box Analytics",
+            "description": "This application is specifically designed for truck drivers in the United States. It empowers drivers with comprehensive data solutions tailored to the unique demands of the trucking business. The all-in-one solution offers three subscription plans, each providing access to distinct data charts and features.",
+            "made_with": "Django, MySQL",
+            "types": "Web Application",
+            "date": "Feb 28, 2024",
+            "url": "https://bboxanalytics.com",
+            "thumbnail": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/7b6246d5-ceed-46c6-9e49-2473dfd7f6bd",
+            "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/88b51ac7-1541-4b08-8f07-7efa9e396741|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/e146fb46-43ac-439b-bec7-e8a84303fe08|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/52484297-eacf-4694-8eb7-bf12f84693b2|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/57ef7a70-1b6a-408c-a015-3d72c091df05|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/257e068c-15b5-4c89-be43-a349bdd7dbe9|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/2d04f0f5-a838-428e-a142-48adf795c44f|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/107bac18-b5ae-4097-9a21-36522cb9ebe0"
+        },
+        {
+            "title": "NodeTacToe",
+            "description": "Engage in the classic and popular Tic-Tac-Toe game with the added thrill of a leaderboard. This browser-based game allows you to challenge opponents, showcasing your strategic prowess. Compete for the top spot on the leaderboard, adding a competitive edge to the timeless game of Tic-Tac-Toe.",
+            "made_with": "HTML, CSS, JavaScript, NodeJS, SQLite",
+            "types": "Web Application",
+            "date": "Feb 18, 2024",
+            "url": "https://node-tac-toe.onrender.com",
+            "thumbnail": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/374af201-7985-4083-a89f-0405a739c17a",
+            "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/0bbd9088-d274-4dd1-8ea5-947725c29d88|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/79c5563e-d880-4e0a-aa3d-0306c74e166d"
+        },
+        {
             "title": "Meme Generator",
             "description": "The Meme Generator app, powered by React, Flask, and Firebase Authentication, offers users a simple yet powerful meme creation experience. Search for images with Pixabay, then customize memes in a Canva-like editor. Adjust text, colors, and positions, add backgrounds, padding, and overlay effects. Secure logins with Firebase Authentication. Create, save, and export personalized memes effortlessly. Turn ordinary images into shareable, hilarious memes with ease!",
             "made_with": "React, Firebase, Flask",
