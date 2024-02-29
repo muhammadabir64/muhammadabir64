@@ -113,7 +113,7 @@
         {
             "title": "Black Box Analytics",
             "description": "This application is specifically designed for truck drivers in the United States. It empowers drivers with comprehensive data solutions tailored to the unique demands of the trucking business. The all-in-one solution offers three subscription plans, each providing access to distinct data charts and features.",
-            "made_with": "Django, MySQL",
+            "made_with": "JavaScript, Django, MySQL",
             "types": "Web Application",
             "date": "Feb 28, 2024",
             "url": "https://bboxanalytics.com",
