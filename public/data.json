@@ -71,14 +71,14 @@
             "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/80385323-8121-40e8-8dd2-cc5a83ce2932|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/91a88a95-8401-4de6-af8f-7abf96955871|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/598fe693-eeca-4bc4-b2ed-772747fe0453|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/0c7cf822-f031-467c-b953-13996e05c6f1|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/bfa840c2-3cb7-4d64-b5b0-6c18e6f510ce"
         },
         {
-            "title": "Musicai.Art",
-            "description": "This is a AI-Image generator platform like dall-e. Made with django & stable-diffusion-webui api.",
-            "made_with": "Django, Stable Diffusion, MySQL",
+            "title": "ComputerShop",
+            "description": "I have developed a comprehensive e-commerce platform using Laravel, specifically designed for selling laptops and computers. The platform includes features such as product management, allowing detailed descriptions, specifications, and categorization of products. It also has a shopping cart for managing items before checkout and a wishlist feature for saving favorite items for future purchase. Order tracking is integrated, providing real-time updates from placement to delivery. The platform supports digital payments with SSLCommerz, ensuring secure transactions. Additionally, it offers robust order management and an interactive admin dashboard for efficient management of the store.",
+            "made_with": "Bootstrap5, JavaScript, Laravel, MySQL",
             "types": "Web Application",
-            "date": "Jun 28, 2023",
+            "date": "Juy 05, 2024",
             "url": "",
-            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/0268a9f4a6082acf295db81457496795-1689585929155/image.png",
-            "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/0268a9f4a6082acf295db81457496795-1689586065842/image%20%281%29.png|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/0268a9f4a6082acf295db81457496795-1689585839672/Capture2%20%281%29.png"
+            "thumbnail": "https://github.com/user-attachments/assets/75f0916a-36e0-4f65-a3f7-c83f99d4f2d4",
+            "preview_img": "https://github.com/user-attachments/assets/1df2e2f8-a9f7-4b2f-8c66-f6b6f455c396|https://github.com/user-attachments/assets/16e963b1-9866-47fa-8ff9-1c8a41cc239c|https://github.com/user-attachments/assets/0e64bd94-2329-4d0b-b88b-489e970eeb8a|https://github.com/user-attachments/assets/f00f707c-36d2-4a68-be6a-38424cee876b|https://github.com/user-attachments/assets/288cd7aa-5b12-4385-a0a3-b6e2bf7814c0|https://github.com/user-attachments/assets/7042886e-b887-4c10-8f37-cdd4320b113a|https://github.com/user-attachments/assets/1c09d246-da1b-4c57-a964-3e4ffd87acd4|https://github.com/user-attachments/assets/2eb92a08-0248-4f19-9594-fd4c63ae0b8c|https://github.com/user-attachments/assets/06402481-8ab5-4705-9b1f-53e69e6b0e2f|https://github.com/user-attachments/assets/8a4de7d0-00ff-4e34-94bd-d30dbb4753b0|https://github.com/user-attachments/assets/c7746cb3-1148-4674-86ee-7ca2968a064e|https://github.com/user-attachments/assets/03d4cf11-d8df-4db0-bfc3-ee10f89b10d6|https://github.com/user-attachments/assets/3ac68ffc-d2fe-4d92-bd04-7577087f82fc|https://github.com/user-attachments/assets/69c87d01-0a4f-4657-bf90-2d6ffecd98a7|https://github.com/user-attachments/assets/2793fd85-014d-4914-8ca6-e6d2bda52656|https://github.com/user-attachments/assets/b737bd1d-fd31-4217-ad40-84b6644800ba|https://github.com/user-attachments/assets/23770f09-4327-4372-8c5c-db2f6c1a9f17|https://github.com/user-attachments/assets/c48825bb-4c1c-47a1-b379-c823a2b4c300|https://github.com/user-attachments/assets/a0552ab7-96bb-4642-9f4e-2d5dcf332c6e|https://github.com/user-attachments/assets/16c71240-2b10-49e4-8473-c7f77d5baa49|https://github.com/user-attachments/assets/82f0684e-8ea2-46b4-baa3-cb322eea4a09|https://github.com/user-attachments/assets/c4f8540b-880e-46b8-accf-4243eb101d6d|https://github.com/user-attachments/assets/870c599e-35ec-4662-9c7e-135584e83e36"
         },
         {
             "title": "Tweeby - Social Platform",
@@ -119,6 +119,16 @@
             "url": "https://bboxanalytics.com",
             "thumbnail": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/7b6246d5-ceed-46c6-9e49-2473dfd7f6bd",
             "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/88b51ac7-1541-4b08-8f07-7efa9e396741|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/e146fb46-43ac-439b-bec7-e8a84303fe08|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/52484297-eacf-4694-8eb7-bf12f84693b2|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/57ef7a70-1b6a-408c-a015-3d72c091df05|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/257e068c-15b5-4c89-be43-a349bdd7dbe9|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/2d04f0f5-a838-428e-a142-48adf795c44f|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/107bac18-b5ae-4097-9a21-36522cb9ebe0"
+        },
+        {
+            "title": "Musicai.Art",
+            "description": "This is a AI-Image generator platform like dall-e. Made with django & stable-diffusion-webui api.",
+            "made_with": "Django, Stable Diffusion, MySQL",
+            "types": "Web Application",
+            "date": "Jun 28, 2023",
+            "url": "",
+            "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/0268a9f4a6082acf295db81457496795-1689585929155/image.png",
+            "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/0268a9f4a6082acf295db81457496795-1689586065842/image%20%281%29.png|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/0268a9f4a6082acf295db81457496795-1689585839672/Capture2%20%281%29.png"
         },
         {
             "title": "NodeTacToe",
