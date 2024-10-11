@@ -92,7 +92,7 @@
         },
         {
             "title": "Medical Qena",
-            "description": "I developed a bilingual (Arabic and English) e-commerce platform for a client in the Qena region of Egypt to sell medical items. Built with PHP, the website provides a smooth and secure shopping experience, while an intuitive admin panel enables the client to manage inventory, orders, and perform sales analysis efficiently. The project focused on user-friendly navigation, multi-language support, and seamless management of the medical products offered.",
+            "description": "I developed an e-commerce platform for a client in Qena, Egypt, to sell medical supplies. The site, medical-qena.com, supports both Arabic and English, ensuring broader reach. Built with PHP, it features a responsive design for seamless browsing on all devices. The project includes an intuitive admin panel, allowing the client to manage inventory, orders, and analyze sales efficiently. The focus was on creating a secure and user-friendly experience for both customers and the client, ensuring smooth operations and future scalability.",
             "made_with": "JavaScript, PHP, MySQL",
             "types": "Web Application",
             "date": "Oct 05, 2024",
