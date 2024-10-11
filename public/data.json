@@ -61,14 +61,14 @@
             "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/2257adcb-e666-4391-a253-37b915af32c5|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/2876ea2f-485f-4f8c-9af5-f3e03c561378|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/ad160258-a488-432c-b3f1-869262948b9b|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/8f37fbf6-a7c3-4171-9337-689105ba38b8|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/b8bf91a6-4e17-4fcc-ba12-718f6c512d08|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/240c71a7-b64e-43d2-97c3-d864c5ee93d1|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/826c8eef-70d8-4957-ae25-0915ff2c3b90|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/27614beb-d9fd-4461-940d-fd05b543a883|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/c639d36c-aa65-450d-af1c-0135ed5369de"
         },
         {
-            "title": "Whatsapp-Bulk",
-            "description": "I developed a WhatsApp Bulk platform for an Egyptian team using PHP and MySQL. This platform includes features such as bulk messaging, secure hash code integration, advanced content filtering, user management, and database optimization. Additionally, I integrated a payment system that allows users to make payments using various TRC20 cryptocurrencies, including USDT TRC20. As the lead developer, I managed all aspects of the project, from design to testing, and collaborated closely with the client. The platform is now in active use and has enhanced the team's outreach with efficient and secure bulk messaging, receiving positive feedback for its usability and reliability.",
+            "title": "Medical Qena",
+            "description": "I developed a bilingual (Arabic and English) e-commerce platform for a client in the Qena region of Egypt to sell medical items. Built with PHP, the website provides a smooth and secure shopping experience, while an intuitive admin panel enables the client to manage inventory, orders, and perform sales analysis efficiently. The project focused on user-friendly navigation, multi-language support, and seamless management of the medical products offered.",
             "made_with": "JavaScript, PHP, MySQL",
             "types": "Web Application",
-            "date": "Sep 25, 2022",
-            "url": "",
-            "thumbnail": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/ce6cdb80-cb1f-4b3a-a6a6-a521ee385392",
-            "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/80385323-8121-40e8-8dd2-cc5a83ce2932|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/91a88a95-8401-4de6-af8f-7abf96955871|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/598fe693-eeca-4bc4-b2ed-772747fe0453|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/0c7cf822-f031-467c-b953-13996e05c6f1|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/bfa840c2-3cb7-4d64-b5b0-6c18e6f510ce"
+            "date": "Oct 05, 2024",
+            "url": "https://medical-qena.com",
+            "thumbnail": "https://github.com/user-attachments/assets/bbe6164d-027e-452d-b87b-85d6b2cf17e3",
+            "preview_img": "https://github.com/user-attachments/assets/b0f5221c-7f4a-4dfb-845a-657a0707bcab|https://github.com/user-attachments/assets/47e07441-a27c-48f2-bb1d-cb77ff364d7d|https://github.com/user-attachments/assets/d41243e0-e210-485a-a491-4cf1b9d211c9|https://github.com/user-attachments/assets/66a72dc4-819b-4629-814b-90815d61ea30|https://github.com/user-attachments/assets/f15b97bf-9d69-4673-adb2-0f3c2afeaf11|https://github.com/user-attachments/assets/b7ac3035-d8a5-401b-8728-20ce145f3eb8|https://github.com/user-attachments/assets/f99fde5f-4caa-4237-b737-6f9ec66d923d|https://github.com/user-attachments/assets/24c64236-ca97-4192-ac50-a49997d15343|https://github.com/user-attachments/assets/a251e052-6a0d-40a6-876a-00704ecb418c|https://github.com/user-attachments/assets/e314f84f-77e2-4359-ac1d-7eaa6b8a1fbf|https://github.com/user-attachments/assets/cbfd0979-483a-4a09-bfea-9138e66318ce|https://github.com/user-attachments/assets/1a0e2341-00ce-4a81-9071-a1b97f04989c|https://github.com/user-attachments/assets/cbd93388-4cb9-42ab-9384-efc3180fcdd9|https://github.com/user-attachments/assets/03e6e1f9-70a7-4485-b134-7d234ff7d28f|https://github.com/user-attachments/assets/139059c0-7021-4d84-9d11-6c30d6f567cc)|https://github.com/user-attachments/assets/764c726e-8cbe-47ca-bed2-c273906cc568"
         },
         {
             "title": "ComputerShop",
@@ -109,6 +109,16 @@
             "url": "",
             "thumbnail": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/29ddb096eab5895679125b5d189a4bbc-1689585154386/3_img.png",
             "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/d5b9bab4-7aed-4cb1-bc44-351ef3b9b70a|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/98909302-bc2f-4575-aee0-c0f97f55000d"
+        },
+        {
+            "title": "Whatsapp-Bulk",
+            "description": "I developed a WhatsApp Bulk platform for an Egyptian team using PHP and MySQL. This platform includes features such as bulk messaging, secure hash code integration, advanced content filtering, user management, and database optimization. Additionally, I integrated a payment system that allows users to make payments using various TRC20 cryptocurrencies, including USDT TRC20. As the lead developer, I managed all aspects of the project, from design to testing, and collaborated closely with the client. The platform is now in active use and has enhanced the team's outreach with efficient and secure bulk messaging, receiving positive feedback for its usability and reliability.",
+            "made_with": "JavaScript, PHP, MySQL",
+            "types": "Web Application",
+            "date": "Sep 25, 2022",
+            "url": "",
+            "thumbnail": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/ce6cdb80-cb1f-4b3a-a6a6-a521ee385392",
+            "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/80385323-8121-40e8-8dd2-cc5a83ce2932|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/91a88a95-8401-4de6-af8f-7abf96955871|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/598fe693-eeca-4bc4-b2ed-772747fe0453|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/0c7cf822-f031-467c-b953-13996e05c6f1|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/bfa840c2-3cb7-4d64-b5b0-6c18e6f510ce"
         },
         {
             "title": "CarShop",
