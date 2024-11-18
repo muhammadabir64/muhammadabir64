@@ -15,7 +15,7 @@ onMount(async () => {
       const res = await fetch("/data.json");
       const data = await res.json();
       resume_url = data.resume;
-      projects = data.showcases;
+      projects = data.showcases.slice(0, 5);
     } catch (error) {
       console.error("Error loading data:", error);
     }
