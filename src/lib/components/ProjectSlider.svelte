@@ -35,7 +35,7 @@
           <div class="p-lg-5 p-md-4 p-3 border border-1 mt-5 bg-3">
               <div class="row">
                   <div class="col-lg-5">
-                    <a href={`/projects/${createSlug(project.title)}_${project.id}`}><img class="rounded w-100" src={project.thumbnail} alt="thumbnail" /></a>
+                    <a href={`/projects/${createSlug(project.title)}_${project.id}`}><img class="rounded w-100" src={project.thumbnail} alt="thumbnail" loading="lazy" /></a>
                   </div>
                   <div class="col-lg-7 ps-lg-5 mt-5 mt-lg-0">
                       <h4 class="text-linear-4"><a href={`/projects/${createSlug(project.title)}_${project.id}`}>{project.title}</a></h4>
