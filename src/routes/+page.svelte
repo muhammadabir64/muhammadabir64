@@ -38,7 +38,7 @@ onMount(async () => {
                             <img src="/img/my_pic.png" alt="my pic" />
                         </div>
                     </div>
-                    <div class="col-lg-6 mx-lg-auto col-md-12">
+                    <div class="col-lg-7 mx-lg-auto col-md-12">
                         <div class="p-lg-0 p-md-8 p-3">
                             <div class="text-secondary-2 d-flex align-items-center">
                                 &lt;span&gt;
