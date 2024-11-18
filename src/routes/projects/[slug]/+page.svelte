@@ -81,6 +81,12 @@
                     <p class="mb-0 fs-7 text-dark text-uppercase w-40">Built With</p>
                     <p class="mb-0 card__description text-dark text-300 fs-6 mb-0">{project.built_with}</p>
                 </div>
+                {#if project.url !== ""}
+                <div class="d-md-flex">
+                  <p class="mb-0 fs-7 text-dark text-uppercase w-40">Live Demo/Url</p>
+                  <p class="mb-0 card__description text-dark text-300 fs-6 mb-0"><a href={project.url} target="_blank">{project.url}</a></p>
+                </div>
+                {/if}
             </div>
         </div>
     </div>
