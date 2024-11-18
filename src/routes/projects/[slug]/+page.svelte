@@ -77,7 +77,7 @@
                     <p class="mb-0 fs-7 text-dark text-uppercase w-40">Duration</p>
                     <p class="mb-0 card__description text-dark text-300 fs-6 mb-0">{project.duration}</p>
                 </div>
-                <div class="d-md-flex">
+                <div class="d-md-flex mb-3">
                     <p class="mb-0 fs-7 text-dark text-uppercase w-40">Built With</p>
                     <p class="mb-0 card__description text-dark text-300 fs-6 mb-0">{project.built_with}</p>
                 </div>
