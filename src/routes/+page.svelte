@@ -33,7 +33,7 @@ onMount(async () => {
         <div class="border border-1 rounded-3">
             <div class="box-linear-animation position-relative z-1">
                 <div class="row py-60">
-                    <div class="col-lg-4 ps-lg-5 d-flex justify-content-center align-items-center">
+                    <div class="col-lg-4 mx-lg-auto ps-lg-5 d-flex justify-content-center align-items-center">
                         <div class="position-relative mb-lg-0 mb-5">
                             <img src="/img/my_pic.png" alt="my pic" />
                         </div>
