@@ -3,7 +3,10 @@
     export let projects = [];
 
     function createSlug(title) {
-        return title.toLowerCase().replace(/\s+/g, '-');
+      return title
+        .toLowerCase()
+        .replace(/[\s/-]+/g, '-')
+        .replace(/^-+|-+$/g, '');
     }
 
     onMount(() => {
