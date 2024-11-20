@@ -10,6 +10,7 @@ I'm an enthusiastic Full Stack Web Developer, dedicated to crafting robust and s
 - LinkedIn: https://linkedin.com/in/muhammadabir64
 - Portfolio: https://muhammadabir64.netlify.app
 - X: https://twitter.com/muhammadabir404
+- Telegram: https://t.me/muhammadabir64
 - Email: muhammadabir404@gmail.com
 
 Feel free to reach out to discuss collaboration opportunities or if you have any questions!
