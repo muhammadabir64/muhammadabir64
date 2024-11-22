@@ -49,7 +49,7 @@ onMount(async () => {
                             </div>
                             <h1 class="fs-50 my-3">Passionate <span class="text-linear-4">&#123;Web Developer&#125;</span> & Digital Craftsman<span class="flicker">_</span></h1>
                             <p class="mb-6 text-secondary-2">
-                                <span class="text-dark">I am a passionate, self-taught developer based in Bangladesh. With over 5 years of experience as a freelance web developer, I've had the privilege of working with individuals, agencies, and startups, crafting tailored digital solutions for both business and consumer needs. I'm naturally curious, confident in my skills, and continuously focused on improving my workflow and staying ahead in the ever-evolving field of web development.</span>
+                                <span class="text-dark">I am a passionate, self-taught developer from Bangladesh. With over 5 years of experience as a freelance web developer, I've had the privilege of working with individuals, agencies, and startups, crafting tailored digital solutions for both business and consumer needs. I'm naturally curious, confident in my skills, and continuously focused on improving my workflow and staying ahead in the ever-evolving field of web development.</span>
                             </p>                            
                             <div class="row">
                                 <div class="col-md-8">
