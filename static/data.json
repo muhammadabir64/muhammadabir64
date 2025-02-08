@@ -60,6 +60,16 @@
         },
         {
             "id": 6,
+            "title": "Matrimony",
+            "description": "I developed a complete matrimony platform using Laravel, designed specifically for Bangladesh. The platform allows users to create accounts for free while also offering premium memberships with additional benefits. Users can create detailed bride or groom biodata, browse other profiles, shortlist potential matches, and send interest requests. A real-time chat feature, powered by Firebase, enables seamless communication between users. The platform also includes a robust admin panel where administrators can monitor user activities, manage memberships, and oversee the entire system efficiently. With a user-friendly interface and secure infrastructure, this matrimony platform provides a reliable and modern solution for matchmaking in Bangladesh.",
+            "built_with": "Bootstrap, Javascript, Firebase, Laravel, MySQL",
+            "duration": "25 days",
+            "url": "",
+            "thumbnail": "https://github.com/user-attachments/assets/db6d21a6-8d7d-49fd-a10e-3fac7841356d",
+            "preview_img": "https://github.com/user-attachments/assets/2bdadf66-50e5-4998-ac28-985ff9c5dbb7|https://github.com/user-attachments/assets/06fa6c72-6e1d-445a-aa39-246c7aecf77b|https://github.com/user-attachments/assets/131eb6d2-73e6-4afd-8839-26bae0bfc2fc|https://github.com/user-attachments/assets/535b7f5f-ee68-47ed-85ae-efdd93c7255e|https://github.com/user-attachments/assets/546744a9-d0e7-483a-b22c-867b4cdb03df|https://github.com/user-attachments/assets/4815044b-0e83-4aba-9353-4640c6375fd7|https://github.com/user-attachments/assets/78cd2e46-6933-4c4e-a86f-1c8551f3cc2b|https://github.com/user-attachments/assets/1d700ab2-d6bf-4ea5-ada8-3f0e32fb1b91"
+        },
+        {
+            "id": 7,
             "title": "ProFolio - Personal Portfolio/CV",
             "description": "ProFolio- is a CMS based protfolio management system.",
             "built_with": "Materialize CSS, JavaScript, PHP, MySQL",
@@ -69,7 +79,7 @@
             "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/d5b9bab4-7aed-4cb1-bc44-351ef3b9b70a|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/98909302-bc2f-4575-aee0-c0f97f55000d"
         },
         {
-            "id": 7,
+            "id": 8,
             "title": "ComputerShop",
             "description": "I have developed a comprehensive e-commerce platform using Laravel, specifically designed for selling laptops and computers. The platform includes features such as product management, allowing detailed descriptions, specifications, and categorization of products. It also has a shopping cart for managing items before checkout and a wishlist feature for saving favorite items for future purchase. Order tracking is integrated, providing real-time updates from placement to delivery. The platform supports digital payments with SSLCommerz, ensuring secure transactions. Additionally, it offers robust order management and an interactive admin dashboard for efficient management of the store.",
             "built_with": "Bootstrap5, JavaScript, Laravel, MySQL",
@@ -79,7 +89,7 @@
             "preview_img": "https://github.com/user-attachments/assets/1df2e2f8-a9f7-4b2f-8c66-f6b6f455c396|https://github.com/user-attachments/assets/16e963b1-9866-47fa-8ff9-1c8a41cc239c|https://github.com/user-attachments/assets/0e64bd94-2329-4d0b-b88b-489e970eeb8a|https://github.com/user-attachments/assets/f00f707c-36d2-4a68-be6a-38424cee876b|https://github.com/user-attachments/assets/288cd7aa-5b12-4385-a0a3-b6e2bf7814c0|https://github.com/user-attachments/assets/7042886e-b887-4c10-8f37-cdd4320b113a|https://github.com/user-attachments/assets/1c09d246-da1b-4c57-a964-3e4ffd87acd4|https://github.com/user-attachments/assets/2eb92a08-0248-4f19-9594-fd4c63ae0b8c|https://github.com/user-attachments/assets/06402481-8ab5-4705-9b1f-53e69e6b0e2f|https://github.com/user-attachments/assets/8a4de7d0-00ff-4e34-94bd-d30dbb4753b0|https://github.com/user-attachments/assets/c7746cb3-1148-4674-86ee-7ca2968a064e|https://github.com/user-attachments/assets/03d4cf11-d8df-4db0-bfc3-ee10f89b10d6|https://github.com/user-attachments/assets/3ac68ffc-d2fe-4d92-bd04-7577087f82fc|https://github.com/user-attachments/assets/69c87d01-0a4f-4657-bf90-2d6ffecd98a7|https://github.com/user-attachments/assets/2793fd85-014d-4914-8ca6-e6d2bda52656|https://github.com/user-attachments/assets/b737bd1d-fd31-4217-ad40-84b6644800ba|https://github.com/user-attachments/assets/23770f09-4327-4372-8c5c-db2f6c1a9f17|https://github.com/user-attachments/assets/c48825bb-4c1c-47a1-b379-c823a2b4c300|https://github.com/user-attachments/assets/a0552ab7-96bb-4642-9f4e-2d5dcf332c6e|https://github.com/user-attachments/assets/16c71240-2b10-49e4-8473-c7f77d5baa49|https://github.com/user-attachments/assets/82f0684e-8ea2-46b4-baa3-cb322eea4a09|https://github.com/user-attachments/assets/c4f8540b-880e-46b8-accf-4243eb101d6d|https://github.com/user-attachments/assets/870c599e-35ec-4662-9c7e-135584e83e36"
         },
         {
-            "id": 8,
+            "id": 9,
             "title": "CarShop",
             "description": "Developed a versatile automotive platform with dual functionalities. The first part is a car listing service that allows users to publish their new or used cars with detailed information. A campaign charge applies for running the car post, and visitors can contact the dealer directly and arrange to meet in person to finalize the purchase, similar to bikroy.com. The second part is a traditional e-commerce site where the admin can post products such as car parts and accessories. Customers can add items to their cart and make secure payments via SSLCommerz. The platform features a robust admin panel, enabling comprehensive management of products, orders, and users without the need for code modifications. This project highlights proficiency in developing complex, feature-rich platforms that cater to diverse user needs while ensuring seamless user experiences and secure transactions.",
             "built_with": "Bootstrap, JavaScript, Laravel, MySQL",
@@ -89,7 +99,7 @@
             "preview_img": "https://github.com/user-attachments/assets/4b64774d-d55e-430e-bf7d-cbb89511dc98|https://github.com/user-attachments/assets/f254e254-47f0-4b7e-881d-3113169a46ce|https://github.com/user-attachments/assets/2c4433a1-e763-47ee-9144-b00a845b2f91|https://github.com/user-attachments/assets/e0105c9f-e516-4af5-83a2-e99c8e0ab824|https://github.com/user-attachments/assets/d45fb754-1726-480e-a7d5-1e95b48bb976|https://github.com/user-attachments/assets/e15e00e1-b03f-45c6-8515-94d68791d0f3|https://github.com/user-attachments/assets/c9d12bcb-6b22-4211-b0d6-647ef22fb103|https://github.com/user-attachments/assets/b7ecf53b-d73a-4fae-8f9e-6b9452c2674e|https://github.com/user-attachments/assets/934f1332-fea6-43c1-b732-37da2902bba3|https://github.com/user-attachments/assets/850d01b5-ce0f-498d-82b5-d07913960142|https://github.com/user-attachments/assets/ffe49208-b93c-405d-a92f-7ac5c2aedbfc|https://github.com/user-attachments/assets/a8651936-3fde-4323-be4a-3c7412b75d7b|https://github.com/user-attachments/assets/b6b2bc96-2053-4f4d-9814-e462a7736151|https://github.com/user-attachments/assets/00ad1a9d-65f8-4f51-90ff-8615a5b66de8|https://github.com/user-attachments/assets/31938000-ff8a-4ea5-a4c6-7529da3ee51f|https://github.com/user-attachments/assets/2b0419c2-91c0-41a3-af61-c43e2e318175|https://github.com/user-attachments/assets/45895ece-f4f6-4fe2-8033-d6153b12afab|https://github.com/user-attachments/assets/44dfa35e-b1c4-465e-b1ae-5382e8b7eea0|https://github.com/user-attachments/assets/5dd999d3-44f4-40e4-ab2c-eacc90cc1c09|https://github.com/user-attachments/assets/f65f8d20-572a-47a4-9f91-e362c90ba9fc|https://github.com/user-attachments/assets/1f5a3f06-5270-4405-9f6b-b98fe3a42e63|https://github.com/user-attachments/assets/5ff57c0f-0a5f-47bc-b595-894546dff900|https://github.com/user-attachments/assets/b4abb519-5ab1-4231-ad54-24b08a0ef44b|https://github.com/user-attachments/assets/05224682-47ab-459c-befa-58ec5511bd3c"
         },
         {
-            "id": 9,
+            "id": 10,
             "title": "Black Box Analytics",
             "description": "This application is specifically designed for truck drivers in the United States. It empowers drivers with comprehensive data solutions tailored to the unique demands of the trucking business. The all-in-one solution offers three subscription plans, each providing access to distinct data charts and features.",
             "built_with": "JavaScript, Django, MySQL",
@@ -99,7 +109,7 @@
             "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/88b51ac7-1541-4b08-8f07-7efa9e396741|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/e146fb46-43ac-439b-bec7-e8a84303fe08|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/52484297-eacf-4694-8eb7-bf12f84693b2|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/57ef7a70-1b6a-408c-a015-3d72c091df05|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/257e068c-15b5-4c89-be43-a349bdd7dbe9|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/2d04f0f5-a838-428e-a142-48adf795c44f|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/107bac18-b5ae-4097-9a21-36522cb9ebe0"
         },
         {
-            "id": 10,
+            "id": 11,
             "title": "Musicai.Art",
             "description": "This is a AI-Image generator platform like dall-e. Made with django & stable-diffusion-webui api.",
             "built_with": "Django, Stable Diffusion, MySQL",
@@ -109,7 +119,7 @@
             "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/0268a9f4a6082acf295db81457496795-1689586065842/image%20%281%29.png|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/0268a9f4a6082acf295db81457496795-1689585839672/Capture2%20%281%29.png"
         },
         {
-            "id": 11,
+            "id": 12,
             "title": "Shirt&Art",
             "description": "Developed a sophisticated e-commerce platform for a fashion house, using Laravel. This project demonstrates expertise in building robust, user-friendly, and feature-rich e-commerce solutions. The platform includes a comprehensive admin panel for efficient management of products, orders, users, and site settings. It features a detailed product inventory system with categories and subcategories, and integrates seamless digital payment methods. Additional functionalities such as order tracking, wishlist management, and cart operations ensure an optimal shopping experience for customers.",
             "built_with": "Bootstrap, JavaScript, Laravel, MySQL",
@@ -119,7 +129,7 @@
             "preview_img": "https://github.com/user-attachments/assets/7add8818-89eb-4268-9721-1c5cbab4b7d1|https://github.com/user-attachments/assets/64fe2b5a-4007-41be-ab58-d12b15347961|https://github.com/user-attachments/assets/bea0e6f2-9e4a-4982-9689-9a485c6d8390|https://github.com/user-attachments/assets/608c1652-9058-4766-8b40-bdb144ced5de|https://github.com/user-attachments/assets/b6968fec-7f1b-430a-bf21-a26644a1e7fc|https://github.com/user-attachments/assets/9f2e600a-40a3-4cbc-97b0-6144f96db86d|https://github.com/user-attachments/assets/318424ef-d20d-417e-94d0-57416fbeada2"
         },
         {
-            "id": 12,
+            "id": 13,
             "title": "NodeTacToe",
             "description": "Engage in the classic and popular Tic-Tac-Toe game with the added thrill of a leaderboard. This browser-based game allows you to challenge opponents, showcasing your strategic prowess. Compete for the top spot on the leaderboard, adding a competitive edge to the timeless game of Tic-Tac-Toe.",
             "built_with": "HTML, CSS, JavaScript, NodeJS, SQLite",
@@ -129,7 +139,7 @@
             "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/0bbd9088-d274-4dd1-8ea5-947725c29d88|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/79c5563e-d880-4e0a-aa3d-0306c74e166d"
         },
         {
-            "id": 13,
+            "id": 14,
             "title": "Meme Generator",
             "description": "The Meme Generator app, powered by React, Flask, and Firebase Authentication, offers users a simple yet powerful meme creation experience. Search for images with Pixabay, then customize memes in a Canva-like editor. Adjust text, colors, and positions, add backgrounds, padding, and overlay effects. Secure logins with Firebase Authentication. Create, save, and export personalized memes effortlessly. Turn ordinary images into shareable, hilarious memes with ease!",
             "built_with": "React, Firebase, Flask",
@@ -139,7 +149,7 @@
             "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/3daeb7f7-2e2d-4bfd-9208-ce24a6ef9f44"
         },
         {
-            "id": 14,
+            "id": 15,
             "title": "Musify - Music Streaming App",
             "description": "Experience musical bliss with my MERN stack creation – a minimalist music app inspired by SoundCloud. Powered by Dropbox for seamless audio storage and MongoDB for organized data, it effortlessly showcases a handpicked collection. Elevate your auditory senses with elegance, courtesy of React and Node.js.",
             "built_with": "MERN Stack",
@@ -149,7 +159,7 @@
             "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/7c088abf-0356-4020-8867-3a49b826f2ff"
         },
         {
-            "id": 15,
+            "id": 16,
             "title": "Noteneers",
             "description": "Keep track of notes for engineers to increase accountability. Users can contribute notes like github repo.",
             "built_with": "JavaScript, PHP, MySQL",
@@ -159,7 +169,7 @@
             "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/11df8ac8f0e66f8de8cabf805dba3bec-1689584886080/9_img_2.png|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/11df8ac8f0e66f8de8cabf805dba3bec-1689584886067/9_img_1.png"
         },
         {
-            "id": 16,
+            "id": 17,
             "title": "Azott - Inventory Manager",
             "description": "A inventory management tool for an ecommerce platform based in Algeria. It can add, remove, edit, export, import products & sellers.",
             "built_with": "JavaScript, PHP, MySQL",
@@ -169,7 +179,7 @@
             "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/bf383948c2c5f0369a0e73e2f779e883-1689584754600/2_img_2.png|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/bf383948c2c5f0369a0e73e2f779e883-1689584754623/2_img_1.png"
         },
         {
-            "id": 17,
+            "id": 18,
             "title": "B&B - Hotel Management",
             "description": "A Flask-based Hotel Room Management Web App simplifies booking. Users can register/login, browse rooms, book stays, and securely pay with Stripe. It offers instant confirmations, user dashboards, and admin controls for a seamless booking experience.",
             "built_with": "JavaScript, Python Flask, SQLite",
@@ -179,7 +189,7 @@
             "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/1b3dadd7-d14a-496a-b59e-ec8732078576|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/66b6257a-a9b9-4e9b-a65d-98539a9a1cbf|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/04d5b15b-b23c-4221-a18c-c6d44b09c623|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/5caa96c2-1fb8-49c9-9125-82436c468820|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/c03946a8-7bcb-4264-a80e-44e2296976c6|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/0e21eeac-95e7-4f12-aa87-defff8e333bb|https://github.com/muhammadabir64/muhammadabir64/assets/51321911/d9c54360-f73c-4216-bb3a-8d018ad5cb58"
         },
         {
-            "id": 18,
+            "id": 19,
             "title": "UserDocs",
             "description": "This project is a React-based web app leveraging Firebase services for streamlined user profile management. With Google authentication integration, users can effortlessly create, update, and maintain their profiles, managing details like contact information, age, and gender. It ensures secure storage for profile pictures using Firebase Storage and provides a simple process for account deletion. The interface prioritizes user convenience, offering an intuitive platform for seamless profile handling.",
             "built_with": "React, Firebase",
@@ -189,7 +199,7 @@
             "preview_img": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/7ea4a24a-380a-4582-ad29-6f0810096d0a"
         },
         {
-            "id": 19,
+            "id": 20,
             "title": "EtherScan DB",
             "description": "This simple tool takes an ethereum hash and fetches all transactions data.",
             "built_with": "Bootstrap, NodeJS, MySQL",
@@ -199,7 +209,7 @@
             "preview_img": ""
         },
         {
-            "id": 20,
+            "id": 21,
             "title": "STR4IN",
             "description": "To-Do app made with MERN. fully interactive & items can be place one category to another with just drag-&-drop.",
             "built_with": "MERN Stack",
@@ -209,7 +219,7 @@
             "preview_img": ""
         },
         {
-            "id": 21,
+            "id": 22,
             "title": "Shitlisting",
             "description": "I have developed a comprehensive platform dedicated to listing cryptocurrencies. This innovative platform allows individuals to share and showcase their coin details, providing valuable information to potential buyers. Users have the ability to upload and showcase their coins, creating a marketplace where buyers can explore and make informed purchasing decisions. With a user-friendly interface and a focus on facilitating seamless transactions, the platform offers an efficient and reliable solution for crypto enthusiasts.",
             "built_with": "Bootstrap, JavaScript, Binance API, PHP, MySQL",
@@ -219,7 +229,7 @@
             "preview_img": ""
         },
         {
-            "id": 22,
+            "id": 23,
             "title": "Wikipedia Traffic Data Analysis",
             "description": "Global pandemic analysis graph built using react.",
             "built_with": "React.js",
@@ -229,7 +239,7 @@
             "preview_img": ""
         },
         {
-            "id": 23,
+            "id": 24,
             "title": "Quotes Generator 2x",
             "description": "I have developed two web applications for a client, each equipped with an efficient admin panel. Within the admin panel, administrators have the capability to choose images based on specific niches. Leveraging the power of Pixabay and Unsplash APIs, the applications seamlessly retrieve relevant images. Furthermore, administrators can effortlessly input any desired quote text, prompting the applications to generate visually captivating quote images.",
             "built_with": "Bootstrap, NodeJS, MySQL",
@@ -239,7 +249,7 @@
             "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/71762dd5828f4ae886b1b582c41c6972-1689587381073/Capture.png|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/71762dd5828f4ae886b1b582c41c6972-1689587401781/image%20%281%29.png|https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/71762dd5828f4ae886b1b582c41c6972-1689587407484/image.png"
         },
         {
-            "id": 24,
+            "id": 25,
             "title": "ProPasswordGenerator",
             "description": "Pro Password Generator is a Strong Password Generator that allows you to quickly generate a secure, strong and random password from a combination of characters, passpharase, letters, numbers, symbols and special characters.",
             "built_with": "Bootstrap, JavaScript",
@@ -249,7 +259,7 @@
             "preview_img": ""
         },
         {
-            "id": 25,
+            "id": 26,
             "title": "Website Audit Cheaker Tool",
             "description": "This seo audit prioritizes each fix based on potential traffic impact and ease of implementation. Made with python & selenium.",
             "built_with": "JavaScript, Python, Flask, Selenium",
@@ -259,7 +269,7 @@
             "preview_img": ""
         },
         {
-            "id": 26,
+            "id": 27,
             "title": "Employeer List",
             "description": "Simple CRUD based app.",
             "built_with": "Bootstrap, NodeJS, MySQL",
@@ -269,7 +279,7 @@
             "preview_img": ""
         },
         {
-            "id": 27,
+            "id": 28,
             "title": "ERC Funding Solutions",
             "description": "ERC survey form submission application.",
             "built_with": "Bootstrap, JQuery, PHP, MySQL",
@@ -279,7 +289,7 @@
             "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/8a1e9c6ee2e2a18737c320916b82871b-1689586160723/Capture2%20%282%29.png"
         },
         {
-            "id": 28,
+            "id": 29,
             "title": "RajRamakrishnan Ventures",
             "description": "I still remember the day! for the first time I got an order on fiverr. This project was an indian lead generation company's website.",
             "built_with": "Bootstrap, JavaScript, PHP",
@@ -289,7 +299,7 @@
             "preview_img": "https://fiverr-res.cloudinary.com/image/upload/t_portfolio_project_large,q_auto,f_auto/v1/attachments/project_item/attachment/f58f660748c746e577bbbf44679f33b6-1689585486080/4_img_1.png"
         },
         {
-            "id": 29,
+            "id": 30,
             "title": "ConcreterePairSnyc",
             "description": "I took a WordPress website provided by a client and transformed it into a unique digital experience. By rebuilding it using only HTML, CSS, and JavaScript, I crafted a tailor-made interface that breaks away from the ordinary templates. Discover this project in my portfolio, where I turned a standard WordPress site into an extraordinary display of Vanilla HTML, CSS, and JS craftsmanship.",
             "built_with": "Bootstrap, JavaScript",
