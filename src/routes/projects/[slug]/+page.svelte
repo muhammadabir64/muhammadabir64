@@ -26,7 +26,7 @@
         return;
       }
       selectedThumbnail = project.thumbnail;
-      images = [selectedThumbnail, ...(project.preview_img ? project.preview_img.split("|") : [])];
+      images = [selectedThumbnail, ...(project.preview_img || [])];
     } catch (error) {
       console.error("Error loading project data:", error);
       goto("/projects");
