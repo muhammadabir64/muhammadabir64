@@ -10,18 +10,16 @@
     "showcases": [
         {
             "id": 1,
-            "title": "Al-Maktaba",
-            "description": "Al-Maktaba is a digital sanctuary dedicated to preserving and sharing Islamic knowledge. Offering access to the Quran with transliteration, Sahih Hadith books, authentic dua (supplications), and the Asma-ul-Husna (names of Allah), Al-Maktaba serves as a comprehensive repository for spiritual growth. Whether you're seeking guidance from the Quran, learning supplications, or delving into the teachings of the Prophet Muhammad (peace be upon him), Al-Maktaba provides a rich collection of resources to illuminate your path and deepen your understanding of Islam.",
+            "title": "AlQuran-114",
+            "description": "AlQuran-114 is a minimalist web application that provides access to all 114 chapters (surahs) of the Holy Quran. It offers a clean and responsive interface, allowing users to browse and listen to Quranic recitations directly from their browser. Each surah is listed with its name and type (Meccan or Medinan), and users can play the recitations with a simple click. The site utilizes the Al Quran Cloud API to deliver Quranic content and audio features.",
             "built_with": "React, Tailwind",
             "duration": "5 days",
-            "url": "https://github.com/muhammadabir64/al-maktaba",
+            "url": "https://alquran-114.netlify.app",
             "thumbnail": "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/0a5f840f-650e-4a11-8161-b991c9ae228b",
             "preview_img": [
                   "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/2257adcb-e666-4391-a253-37b915af32c5",
                   "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/2876ea2f-485f-4f8c-9af5-f3e03c561378",
                   "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/ad160258-a488-432c-b3f1-869262948b9b",
-                  "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/8f37fbf6-a7c3-4171-9337-689105ba38b8",
-                  "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/b8bf91a6-4e17-4fcc-ba12-718f6c512d08",
                   "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/240c71a7-b64e-43d2-97c3-d864c5ee93d1",
                   "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/826c8eef-70d8-4957-ae25-0915ff2c3b90",
                   "https://github.com/muhammadabir64/muhammadabir64/assets/51321911/27614beb-d9fd-4461-940d-fd05b543a883",
