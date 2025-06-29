@@ -35,7 +35,7 @@ onMount(async () => {
                 <div class="row py-60">
                     <div class="col-lg-4 mx-lg-auto ps-lg-5 d-flex justify-content-center align-items-center">
                         <div class="position-relative mb-lg-0 mb-5">
-                            <img src="/img/my_pic.jpg" alt="my pic" />
+                            <img src="/img/my_pic.png" alt="my pic" />
                         </div>
                     </div>
                     <div class="col-lg-6 mx-lg-auto col-md-12">
