@@ -164,7 +164,7 @@
         {
             "id": 8,
             "title": "CompressioNinja - PHP Image Compressor & Converter",
-            "description": "Self-hosted PHP script for compressing and converting images on your own server. Fast & Secure.",
+            "description": "​CompressioNinja is a powerful PHP-based image compression and optimization tool designed for fast, high-quality results. Supporting JPEG, PNG, WebP formats, it offers configurable compression quality, optional EXIF data removal, and flexible resizing with aspect ratio control. Built on PHP’s GD library, CompressioNinja automatically detects image formats, validates files, and ensures the best output by returning the original image if compression does not reduce size. Ideal for web applications and self-hosted solutions needing efficient, secure image handling without external dependencies. Requires PHP 8.1+ and the GD extension.",
             "built_with": "Bootstrap, JavaScript, PHP",
             "duration": "1 days",
             "url": "",
