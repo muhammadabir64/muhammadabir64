@@ -130,7 +130,7 @@ onMount(async () => {
                                                 <li class="mb-3">
                                                     <div class="d-flex flex-column flex-md-row gap-2">
                                                         <p class="text-dark text-nowrap mb-0">Others:</p>
-                                                        <span class="text-300">RESTful APIs, WebSockets</span>
+                                                        <span class="text-300">RESTful APIs, WebSockets, WordPress</span>
                                                     </div>
                                                 </li>
                                             </ul>
