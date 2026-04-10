@@ -26,7 +26,7 @@
             ]
         },
         {
-            "id": ,
+            "id": 2,
             "title": "Point of Sale (POS)",
             "description": "Laravel-based point-of-sale and inventory management system built for multi-location retail operations. It includes sales and purchase workflows, returns, stock transfers, barcode support, contact and user-role management, payment account tracking, and real-time business dashboards/reports for day-to-day decision-making.",
             "built_with": "JavaScript, Laravel, MySQL",
