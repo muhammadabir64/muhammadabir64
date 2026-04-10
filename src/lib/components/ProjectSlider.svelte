@@ -1,34 +1,57 @@
 <script>
-    import { onMount } from "svelte";
-    export let projects = [];
+  import { onMount } from "svelte";
+  export let projects = [];
 
-    function createSlug(title) {
-      return title
-        .toLowerCase()
-        .replace(/[\s/-]+/g, '-')
-        .replace(/^-+|-+$/g, '');
+  function createSlug(title) {
+    return title
+      .toLowerCase()
+      .replace(/[\s/-]+/g, '-')
+      .replace(/^-+|-+$/g, '');
+  }
+
+  async function resolveImage(url) {
+    try {
+      const res = await fetch(url, { redirect: "follow" });
+      return res.url; // final signed S3 URL
+    } catch (e) {
+      return url; // fallback
+    }
+  }
+
+  onMount(async () => {
+    // resolve all thumbnails
+    for (let project of projects) {
+      if (project.thumbnail.includes("user-attachments")) {
+        project.thumbnail = await resolveImage(project.thumbnail);
+      }
+
+      if (project.preview_img) {
+        project.preview_img = await Promise.all(
+          project.preview_img.map(async (img) => {
+            if (img.includes("user-attachments")) {
+              return await resolveImage(img);
+            }
+            return img;
+          })
+        );
+      }
     }
 
-    onMount(() => {
-        if (projects.length > 0) {
-            const swiper = new Swiper(".slider-two", {
-                slidesPerView: 1,
-                slidesPerGroup: 1,
-                centeredSlides: false,
-                loop: true,
-                autoplay: {
-                    delay: 2500,
-                },
-                pagination: {
-                    el: ".swiper-pagination",
-                },
-                navigation: {
-                    nextEl: ".swiper-button-next",
-                    prevEl: ".swiper-button-prev",
-                },
-            });
-        }
-    });
+    // init swiper AFTER images resolved
+    if (projects.length > 0) {
+      new Swiper(".slider-two", {
+        slidesPerView: 1,
+        slidesPerGroup: 1,
+        loop: true,
+        autoplay: { delay: 2500 },
+        pagination: { el: ".swiper-pagination" },
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+      });
+    }
+  });
 </script>
 
 <div class="swiper slider-two pb-3 position-relative">
