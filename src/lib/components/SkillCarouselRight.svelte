@@ -67,6 +67,12 @@
         </li>
         <li class="carouselTicker__item mt-6">
             <a href={"javascript:void(0)"} class="brand-logo icon_80 icon-shape rounded-3">
+                <img src="/skills/electronjs.png" alt="brand" />
+            </a>
+            <span class="tool-tip">Electron</span>
+        </li>
+        <li class="carouselTicker__item mt-6">
+            <a href={"javascript:void(0)"} class="brand-logo icon_80 icon-shape rounded-3">
                 <img src="/skills/git.png" alt="brand" />
             </a>
             <span class="tool-tip">Git</span>
