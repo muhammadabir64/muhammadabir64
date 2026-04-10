@@ -85,7 +85,7 @@
             "description": "ComputerShop is a complete eCommerce web application built with Laravel. It includes a customer storefront with product search, cart/checkout, wishlist, order tracking, reviews, and blog engagement, plus a robust admin panel for managing users, products, categories, orders, coupons, pages, and site settings. The platform also features role-based permissions, email verification, Google login, and optional 2FA for secure account management.",
             "built_with": "JavaScript, Laravel, MySQL",
             "duration": "13 days",
-            "url": "",
+            "url": "https://globeoffice-bd.com",
             "thumbnail": "https://raw.githubusercontent.com/muhammadabir64/muhammadabir64/refs/heads/main/previews/New%20folder/computershop/1.png",
             "preview_img": [
                   "https://raw.githubusercontent.com/muhammadabir64/muhammadabir64/refs/heads/main/previews/New%20folder/computershop/2.png",
@@ -148,7 +148,7 @@
             "description": "ServeIt is a desktop app built with Electron + React that lets users instantly host and share local folders over LAN or the public internet. It supports one-click tunnel links, QR sharing, live reload, optional basic auth/CORS, and multi-server management through a clean, modern UI.",
             "built_with": "NodeJS, Electron, React",
             "duration": "2 days",
-            "url": "",
+            "url": "https://github.com/muhammadabir64/serveit",
             "thumbnail": "https://raw.githubusercontent.com/muhammadabir64/muhammadabir64/refs/heads/main/previews/New%20folder/serveit/1.png",
             "preview_img": [
                   "https://raw.githubusercontent.com/muhammadabir64/muhammadabir64/refs/heads/main/previews/New%20folder/serveit/2.png",
