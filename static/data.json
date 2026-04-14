@@ -191,7 +191,7 @@
         {
             "id": 8,
             "title": "Tweeby - Social Platform",
-            "description": "Tweeby is an social platform, inpired by twitter, instagram & whatsapp (you can say, its mixed). I made this fully featured application using django. features: - posting tweets & like, comments - follow or unfollow users - register, login & password reset - also many others..... realtime communication using websocket but backed by django channels - global chat room (all registered users can chat together) - private chat room (only user to user chat room)",
+            "description": "Tweeby is an social platform, inspired by twitter, instagram & whatsapp (you can say, its mixed). I made this fully featured application using django. features: - posting tweets & like, comments - follow or unfollow users - register, login & password reset - also many others..... realtime communication using websocket but backed by django channels - global chat room (all registered users can chat together) - private chat room (only user to user chat room)",
             "built_with": "JavaScript, Django, WebSocket, MySQL",
             "duration": "13 days",
             "url": "https://github.com/muhammadabir64/tweeby",
