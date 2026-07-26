@@ -3,7 +3,7 @@
 <h3 align="center">Building web apps, scrapers, and automation tools that just work</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Python+%7C+Django+%7C+FastAPI;Node.js+%7C+Express+%7C+React;Building+robust%2C+scalable+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Python+%7C+Django+%7C+Flask+%7C+FastAPI;Node.js+%7C+Express+%7C+React+%7C+Svelte;PHP+%7C+Laravel+%7C+WordPress;Building+robust%2C+scalable+web+apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
