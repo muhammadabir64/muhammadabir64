@@ -29,7 +29,7 @@ I'm an enthusiastic **Full Stack Web Developer**, dedicated to crafting robust a
 ### 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,ts,python,django,fastapi,nodejs,express,svelte,react,nextjs,mysql,postgres,sqlite,redis,firebase,jquery,bootstrap,figma,git,docker,linux,vscode,anaconda,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,wordpress,python,django,flask,fastapi,nodejs,express,svelte,react,nextjs,tailwind,mysql,postgres,sqlite,mongodb,redis,firebase,jquery,bootstrap,figma,git,docker,linux,electron&theme=dark" />
 </p>
 
 ---
